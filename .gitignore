@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/SLN.Ecommerce/bin/Debug
+/SLN.Ecommerce/.vs/SLN.Ecommerce
+/SLN.Ecommerce/obj
+/SLN.Ecommerce/Services/Catalog/Catalog.Api/bin/Debug/net5.0
